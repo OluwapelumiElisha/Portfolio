@@ -24,7 +24,7 @@ export const Works = () => {
     {
       img: DEP,
       title: "Dependly",
-      subtitle: "The website is a barbering appointment system where users can easily select a barber, pick a time slot, and book their appointment. It features a clean, user-friendly interface that ensures a smooth booking experience.",
+      subtitle: "Developing the frontend of a FinTech web application using Next.js, TypeScript, and Tailwind CSS. The platform enables secure contract-based transactions, allowing users to transfer and receive money seamlessly. With a focus on modern UI/UX, the app ensures a responsive, secure, and efficient financial experience.",
       skills: [
         { name: "Next.js" },
         { name: "Tailwind" },
